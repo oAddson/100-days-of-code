@@ -23,3 +23,11 @@
 **Thoughts:** searching for a pattern for my commits messages I found conventional commits. Then I installed commitizen for a more intuitive way of write my commits and commitizen to make sure that I am not out of the convention. I hope both tools make my life easier when writing a commit.
 
 **Link to work:** [Blackboard web scraping](https://github.com/oAddson/blackboard-web-scraping)
+
+### Day 4: August 21, 2021
+
+**Today's Progress**: studied how to get responses and how handle multiple pages
+
+**Thoughts:** learned how to get json and other response from a page, it seems to be really efective to handle with data from some page.
+
+**Link to work:** [Blackboard web scraping](https://github.com/oAddson/blackboard-web-scraping)
