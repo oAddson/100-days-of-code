@@ -31,3 +31,11 @@
 **Thoughts:** learned how to get json and other response from a page, it seems to be really efective to handle with data from some page.
 
 **Link to work:** [Blackboard web scraping](https://github.com/oAddson/blackboard-web-scraping)
+
+### Day 5: August 22, 2021
+
+**Today's Progress**: changed puppeteer to puppeteer-core, read user-info from json.
+
+**Thoughts:** added a chromium with mp4 support because default chromium don't load any h264 midia, then changed puppeteer to puppeteer-core, I also done made changes on source of user informations and some refactor.
+
+**Link to work:** [Blackboard web scraping](https://github.com/oAddson/blackboard-web-scraping)
