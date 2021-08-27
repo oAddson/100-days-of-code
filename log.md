@@ -55,3 +55,11 @@
 **Thoughts:** Most of the time today, I fixxed some problems that remained from yesterday. Now if run the code, I can check if there is a new video and download it, but I'm still having some issues with download chat.
 
 **Link to work:** [Blackboard web scraping](https://github.com/oAddson/blackboard-web-scraping)
+
+### Day 8: August 25, 2021
+
+**Today's Progress**: I studied how blackboard sends request chat to the server and read about how puppeteer identify when a web app open a new tab.
+
+**Thoughts:** I think that is most complicated part since I started this project. Not because of complexity of application but because of how puppeteer listen to a new tab open event.
+
+**Link to work:** [Blackboard web scraping](https://github.com/oAddson/blackboard-web-scraping)
