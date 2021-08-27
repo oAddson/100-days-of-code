@@ -63,3 +63,9 @@
 **Thoughts:** I think that is most complicated part since I started this project. Not because of complexity of application but because of how puppeteer listen to a new tab open event.
 
 **Link to work:** [Blackboard web scraping](https://github.com/oAddson/blackboard-web-scraping)
+
+### Day 9: August 26, 2021
+
+**Today's Progress**: Prepared the repository of my new project, my personal site, and read and watched some videos about expressjs(I won't use express in this project). 
+
+**Thoughts:** Prepared the folder structure and installed packages, made webpack configuration(using previous project as a reference). Read some articles about expressjs, because I wanna start an node express project soon, maybe while still doing my personal site and web scraping project, I think I can do it. 
